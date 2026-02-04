@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Omar Eslam
 
-<!--
-**OmarEslamShaker/OmarEslamShaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Engineer in progress
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python  
+- SQL  
+- Data Engineering Basics  
+- Microsoft Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Learning
+- ETL Pipelines  
+- Data Warehousing  
+- Azure Data Services  
+
+### 📚 Training
+- AI & Data Science – Microsoft Data Engineer Track (DEPI)
+
+### 📫 Contact
+- LinkedIn: (www.linkedin.com/in/omar-eslam-shaker)
